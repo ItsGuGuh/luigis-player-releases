@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "applicationId": "com.luigis.player.next",
+  "channel": "stable",
+  "enabled": false,
+  "android": {
+    "versionName": null,
+    "versionCode": null,
+    "minimumSdk": null,
+    "apkUrl": null,
+    "sha256": null,
+    "releaseNotes": ""
+  }
+}
