@@ -4,14 +4,14 @@
   "channel": "stable",
   "enabled": true,
   "android": {
-    "versionName": "4.0.1",
-    "versionCode": 40001,
+    "versionName": "4.0.2",
+    "versionCode": 40002,
     "minimumSdk": 23,
     "abis": [
       "universal"
     ],
-    "apkUrl": "https://github.com/ItsGuGuh/luigis-player-releases/releases/download/v4.0.1/LuigisPlayer-4.0.1.apk",
-    "sha256": "bae06a13639f71df55d167ae7449119c56de8f0a62dc63e82e0563d820bad6ff",
-    "releaseNotes": "Visual da 3.9.4 reconstruído em Android nativo; menu lateral, capas, perfis e navegação por controle."
+    "apkUrl": "https://github.com/ItsGuGuh/luigis-player-releases/releases/download/v4.0.2/LuigisPlayer-4.0.2.apk",
+    "sha256": "a7f40ec265f0d160a82a8a4e1e090b9989a1f4b5821e09c3250d523be1c2c314",
+    "releaseNotes": "Ícones vetoriais originais e alinhamento dos botões, mantendo o layout e as funções."
   }
 }
