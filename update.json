@@ -15,11 +15,11 @@
     "releaseNotes": "Melhor qualidade disponível por padrão; redução manual de vídeo; áudio sem amplificação acima de 100%; perfis Windows centralizados e responsivos."
   },
   "windows": {
-    "versionName": "4.2.0",
-    "versionCode": 40200,
+    "versionName": "4.2.1",
+    "versionCode": 40201,
     "arch": "x64",
-    "setupUrl": "https://github.com/ItsGuGuh/luigis-player-releases/releases/download/v4.2.0/LuigisPlayer-4.2.0-Windows-Setup.exe",
-    "sha256": "d054ab27fc485375649a0a2a0a5060641183a31e5a27fd73da5659140729961d",
-    "releaseNotes": "Melhor qualidade disponível por padrão; redução manual de vídeo; áudio sem amplificação acima de 100%; perfis Windows centralizados e responsivos."
+    "setupUrl": "https://github.com/ItsGuGuh/luigis-player-releases/releases/download/v4.2.1/LuigisPlayer-4.2.1-Windows-Setup.exe",
+    "sha256": "0a03ca67871fb58d18ec2228b5fc719a256f2e0ea5c8a3a90d2b092c372a84cc",
+    "releaseNotes": "O cursor do mouse agora é ocultado com os controles do player e reaparece ao mover o mouse ou exibir os controles. Diálogos e outras janelas preservam o ponteiro."
   }
 }
