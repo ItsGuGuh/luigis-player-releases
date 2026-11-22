@@ -4,14 +4,22 @@
   "channel": "stable",
   "enabled": true,
   "android": {
-    "versionName": "4.0.2",
-    "versionCode": 40002,
+    "versionName": "4.2.0",
+    "versionCode": 40200,
     "minimumSdk": 23,
     "abis": [
       "universal"
     ],
-    "apkUrl": "https://github.com/ItsGuGuh/luigis-player-releases/releases/download/v4.0.2/LuigisPlayer-4.0.2.apk",
-    "sha256": "a7f40ec265f0d160a82a8a4e1e090b9989a1f4b5821e09c3250d523be1c2c314",
-    "releaseNotes": "Ícones vetoriais originais e alinhamento dos botões, mantendo o layout e as funções."
+    "apkUrl": "https://github.com/ItsGuGuh/luigis-player-releases/releases/download/v4.2.0/LuigisPlayer-4.2.0.apk",
+    "sha256": "901ef66793e5fa7579cfa3dd69ffe0fb88412cdb0fa0994543f15bf9c2cc4fed",
+    "releaseNotes": "Melhor qualidade disponível por padrão; redução manual de vídeo; áudio sem amplificação acima de 100%; perfis Windows centralizados e responsivos."
+  },
+  "windows": {
+    "versionName": "4.2.0",
+    "versionCode": 40200,
+    "arch": "x64",
+    "setupUrl": "https://github.com/ItsGuGuh/luigis-player-releases/releases/download/v4.2.0/LuigisPlayer-4.2.0-Windows-Setup.exe",
+    "sha256": "d054ab27fc485375649a0a2a0a5060641183a31e5a27fd73da5659140729961d",
+    "releaseNotes": "Melhor qualidade disponível por padrão; redução manual de vídeo; áudio sem amplificação acima de 100%; perfis Windows centralizados e responsivos."
   }
 }
